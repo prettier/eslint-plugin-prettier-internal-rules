@@ -17,5 +17,4 @@ for (
   }
 }
 
-
 module.exports = plugin
