@@ -1,0 +1,1 @@
+# https://github.com/prettier/prettier/tree/main/scripts/tools/eslint-plugin-prettier-internal-rules
